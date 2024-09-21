@@ -1,0 +1,385 @@
+.plain-1-icon {
+    align-self: stretch;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    height: 845px;
+    flex-shrink: 0;
+    object-fit: cover;
+    z-index: 0;
+}
+.circle-1-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 193px;
+    height: 284px;
+    object-fit: cover;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 50%;
+    background-color: #fff;
+    width: 155.6px;
+    height: 155.6px;
+}
+.sharevyapar-icon {
+    position: absolute;
+    top: 22.76px;
+    left: 23px;
+    width: 113px;
+    height: 110px;
+    object-fit: cover;
+}
+.ellipse-parent {
+    position: absolute;
+    top: 51.24px;
+    left: 18px;
+    width: 155.6px;
+    height: 155.6px;
+}
+.circle-1-parent {
+    position: absolute;
+    top: 361px;
+    left: 0px;
+    width: 193px;
+    height: 284px;
+}
+.group-item {
+    position: absolute;
+    top: 0px;
+    left: 16.33px;
+    border-radius: 50%;
+    background-color: #fff;
+    width: 155.6px;
+    height: 155.6px;
+}
+.dhiyoyo-1-icon {
+    position: absolute;
+    top: 46.26px;
+    left: 0px;
+    width: 172.9px;
+    height: 55.7px;
+    object-fit: cover;
+}
+.ellipse-group {
+    position: absolute;
+    top: 50.24px;
+    left: 3.41px;
+    width: 172.9px;
+    height: 155.6px;
+}
+.circle-2-parent {
+    position: absolute;
+    top: 361px;
+    left: 286px;
+    width: 193px;
+    height: 284px;
+}
+.ssk-icon {
+    position: absolute;
+    top: 39.84px;
+    left: 25.45px;
+    width: 102px;
+    height: 81px;
+    object-fit: cover;
+}
+.ellipse-container {
+    position: absolute;
+    top: 51.16px;
+    left: 19.55px;
+    width: 155.6px;
+    height: 155.6px;
+}
+.circle-3-parent {
+    position: absolute;
+    top: 361px;
+    left: 572px;
+    width: 193px;
+    height: 284px;
+}
+.ad-icon {
+    position: absolute;
+    top: 50.84px;
+    left: 1.6px;
+    width: 166px;
+    height: 59px;
+    object-fit: cover;
+}
+.farsight-logo-1 {
+    position: absolute;
+    top: 40.34px;
+    left: 15.37px;
+    width: 124.9px;
+    height: 74.9px;
+}
+.group-div {
+    position: absolute;
+    top: 51.16px;
+    left: 23.4px;
+    width: 167.6px;
+    height: 155.6px;
+}
+.circle-4-parent {
+    position: absolute;
+    top: 361px;
+    left: 865px;
+    width: 193px;
+    height: 284px;
+}
+.group-child1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 50%;
+    background-color: #fff;
+    width: 154.3px;
+    height: 154.3px;
+}
+.tryit-2-icon {
+    position: absolute;
+    top: 28.48px;
+    left: 22.72px;
+    width: 103.3px;
+    height: 92.9px;
+    object-fit: cover;
+}
+.ellipse-parent1 {
+    position: absolute;
+    top: 50.91px;
+    left: 21px;
+    width: 154.3px;
+    height: 154.3px;
+}
+.circle-5-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 193px;
+    height: 284px;
+}
+.kunjee-1-icon {
+    position: absolute;
+    top: 19.72px;
+    left: 33.34px;
+    width: 87.9px;
+    height: 103.3px;
+    object-fit: cover;
+}
+.ellipse-parent2 {
+    position: absolute;
+    top: 54.87px;
+    left: 20.43px;
+    width: 154.3px;
+    height: 154.3px;
+}
+.circle-6-parent {
+    position: absolute;
+    top: 0px;
+    left: 286px;
+    width: 193px;
+    height: 284px;
+}
+.farsight-mf {
+    position: absolute;
+    top: 78.11px;
+    left: 0px;
+    display: inline-block;
+    font-weight: 600;
+    width: 98.9px;
+    height: 22.7px;
+}
+.mf-1-icon {
+    position: absolute;
+    top: 0px;
+    left: 4.76px;
+    width: 89.6px;
+    height: 89.6px;
+    object-fit: cover;
+}
+.farsight-mf-parent {
+    position: absolute;
+    top: 17.67px;
+    left: 28.62px;
+    width: 98.9px;
+    height: 100.8px;
+}
+.ellipse-parent3 {
+    position: absolute;
+    top: 52.82px;
+    left: 19.06px;
+    width: 154.3px;
+    height: 154.3px;
+}
+.circle-7-parent {
+    position: absolute;
+    top: 0px;
+    left: 572px;
+    width: 193px;
+    height: 284px;
+}
+.farsight-logo-11 {
+    position: absolute;
+    top: 36.23px;
+    left: 9.32px;
+    width: 136px;
+    height: 82px;
+    object-fit: cover;
+}
+.ellipse-parent4 {
+    position: absolute;
+    top: 51.77px;
+    left: 21.68px;
+    width: 154.3px;
+    height: 154.3px;
+}
+.circle-8-parent {
+    position: absolute;
+    top: 0px;
+    left: 865px;
+    width: 193px;
+    height: 284px;
+}
+.group-container {
+    position: absolute;
+    top: 0px;
+    left: 15px;
+    width: 1058px;
+    height: 284px;
+}
+.group-parent {
+    width: 1073px;
+    position: absolute;
+    margin: 0 !important;
+    top: 41px;
+    left: 100px;
+    height: 645px;
+    z-index: 1;
+}
+.farsight-multiverse-title {
+    width: 660px;
+    position: absolute;
+    margin: 0 !important;
+    top: 245px;
+    left: 320px;
+    height: 207px;
+    object-fit: cover;
+    z-index: 2;
+}
+.web-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+}
+.wwwfarsightsharescom {
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 0px;
+    left: 39px;
+    font-weight: 600;
+}
+.web-parent {
+    position: absolute;
+    top: 1px;
+    left: 913px;
+    width: 330px;
+    height: 32px;
+}
+.mail-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 34px;
+    height: 33px;
+    object-fit: cover;
+}
+.customercarefarsightsharesco {
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 1px;
+    left: 41px;
+    font-weight: 600;
+}
+.mail-parent {
+    position: absolute;
+    top: 0px;
+    left: 458px;
+    width: 451px;
+    height: 33px;
+}
+.whatsapp-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 33px;
+    height: 32px;
+    object-fit: cover;
+}
+.div {
+    position: absolute;
+    top: 1px;
+    left: 40px;
+    font-weight: 600;
+}
+.whatsapp-parent {
+    position: absolute;
+    top: 1px;
+    left: 223px;
+    width: 237px;
+    height: 32px;
+}
+.div1 {
+    position: absolute;
+    top: 1px;
+    left: 37px;
+    font-weight: 600;
+}
+.call-parent {
+    position: absolute;
+    top: 1px;
+    left: -10px;
+    width: 234px;
+    height: 32px;
+}
+.group-parent1 {
+    width: 1301px;
+    position: absolute;
+    margin: 0 !important;
+    top: 711px;
+    left: 24px;
+    height: 33px;
+    z-index: 3;
+    text-align: left;
+    font-size: 24px;
+    color: #fff;
+    font-family: Inter;
+}
+.plain-1-parent {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    text-align: center;
+    font-size: 14px;
+    color: #f3a70a;
+    font-family: Poppins;
+}
+
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
